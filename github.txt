@@ -1,0 +1,4 @@
+"AadClientId": "1431c643-52d7-4d76-baac-ce5913492db3",
+  "AadSecret": "6go8Q~cBEvK4ak3wA115VIYd.GuJY6W1dkanKcyG",
+  "AadTenantDomain": "cashconverters.onmicrosoft.com",
+  "AadTenantId": "db99cf18-6043-473c-9d66-134656f164e3",
